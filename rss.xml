@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss
-<<<<<<< HEAD
     xmlns:podcast="https://podcastindex.org/namespace/1.0"
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -11,24 +10,11 @@
         <link>http://d.vanhee.free.fr/podcast/</link>
         <atom:link rel="self" type="application/rss+xml" href="https://dvanhee.github.io/podcast/rss.xml"/>
         <description>Chaque jour, des milliers d’articles sont publiés sur le web.
-=======
-		xmlns:podcast="https://podcastindex.org/namespace/1.0"
-		xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-		xmlns:content="http://purl.org/rss/1.0/modules/content/"
-		xmlns:atom="http://www.w3.org/2005/Atom"
-		version="2.0">
-<channel>
-<title>L'Essentiel des Flux</title>
-<link>http://d.vanhee.free.fr/podcast/</link>
-<atom:link rel="self" type="application/rss+xml" href="https://dvanhee.github.io/podcast/rss.xml"/>
-<description>Chaque jour, des milliers d’articles sont publiés sur le web.
->>>>>>> 695b325 (mise a jour manuelle)
 Ce podcast en propose une synthèse claire et rapide.
 À partir d’une sélection de sources fiables — science, technologie, économie, actualité, culture numérique et sport — les informations marquantes sont analysées et résumées pour en extraire l’essentiel.
 L’objectif : comprendre vite, rester informé, sans passer des heures à lire l’actualité.
 Un brief intelligent du web, entre veille technologique et revue de presse.
 </description>
-<<<<<<< HEAD
         <language>fr</language>
         <copyright>d.vanhee</copyright>
         <lastbuilddate>Tue, 10 Mar 2026 11:08:00 GMT</lastbuilddate>
@@ -44,29 +30,11 @@ Un brief intelligent du web, entre veille technologique et revue de presse.
         </itunes:owner>
         <itunes:explicit>false</itunes:explicit>
         <itunes:summary>Chaque jour, des milliers d’articles sont publiés sur le web.
-=======
-<language>fr</language>
-<copyright>d.vanhee</copyright>
-<lastbuilddate>Tue, 10 Mar 2026 11:08:00 GMT</lastbuilddate>
-<pubDate>Tue, 10 Mar 2026 11:08:00 GMT</pubDate>
-<managingEditor>d.vanhee@free.fr</managingEditor>
-<ttl>15</ttl>
-<podcast:guid>05320ea1-5bea-55d2-8fab-59ece22f7ec6</podcast:guid>
-<podcast:locked owner="d.vanhee@free.fr">yes</podcast:locked>
-<itunes:author>dvanhee</itunes:author>
-<itunes:owner>
-	<itunes:name>dvanhee</itunes:name>
-	<itunes:email>d.vanhee@free.fr</itunes:email>
-</itunes:owner>
-<itunes:explicit>false</itunes:explicit>
-<itunes:summary>Chaque jour, des milliers d’articles sont publiés sur le web.
->>>>>>> 695b325 (mise a jour manuelle)
 Ce podcast en propose une synthèse claire et rapide.
 À partir d’une sélection de sources fiables — science, technologie, économie, actualité, culture numérique et sport — les informations marquantes sont analysées et résumées pour en extraire l’essentiel.
 L’objectif : comprendre vite, rester informé, sans passer des heures à lire l’actualité.
 Un brief intelligent du web, entre veille technologique et revue de presse.
 </itunes:summary>
-<<<<<<< HEAD
         <itunes:explicit>no</itunes:explicit>
         <itunes:keywords>actualité,technologie,science,sport automobile</itunes:keywords>
         <itunes:type>serial</itunes:type>
@@ -79,96 +47,125 @@ Un brief intelligent du web, entre veille technologique et revue de presse.
             <link>http://d.vanhee.free.fr/podcast/</link>
         </image>
         <itunes:image href="http://d.vanhee.free.fr/podcast/logos/logo.png"/>
-        <item>
-            <title>Podcast du 20260314 - Techno Science</title>
-            <guid isPermaLink="false">Techno_Science_69b803690534e</guid>
-            <description>Podcast du 20260314 pour le site Techno Science&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/fraise-renferme-heritage-genetique-hors-norme-N28415.html' target='_blank'&gt;https://www.techno-science.net/actualite/fraise-renferme-heritage-genetique-hors-norme-N28415.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/hallucinations-ia-biologie-N28413.html' target='_blank'&gt;https://www.techno-science.net/actualite/hallucinations-ia-biologie-N28413.html&lt;/a&gt;&lt;br&gt;</description>
-            <link>http://d.vanhee.free.fr/podcast/</link>
-            <pubDate>Mon, 16 Mar 2026 14:19:37 GMT</pubDate>
-            <enclosure url="http://d.vanhee.free.fr/podcast/audios/Techno_Science_20260314.mp3" length="2340524" type="audio/mpeg"/>
-            <itunes:duration>00:02:26</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:episode>6</itunes:episode>
-        </item>
-        <item>
-            <title>Podcast du 20260314 - Consomac</title>
-            <guid isPermaLink="false">Consomac_69b80367d8c43</guid>
-            <description>Podcast du 20260314 pour le site Consomac&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://consomac.fr/news-23371-apple-appliquez-le-concept-du-neo-au-mac-mini.html' target='_blank'&gt;https://consomac.fr/news-23371-apple-appliquez-le-concept-du-neo-au-mac-mini.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://consomac.fr/news-23367-fin-de-carriere-pour-le-macbook-air-m2.html' target='_blank'&gt;https://consomac.fr/news-23367-fin-de-carriere-pour-le-macbook-air-m2.html&lt;/a&gt;&lt;br&gt;</description>
-            <link>http://d.vanhee.free.fr/podcast/</link>
-            <pubDate>Mon, 16 Mar 2026 14:19:35 GMT</pubDate>
-            <enclosure url="http://d.vanhee.free.fr/podcast/audios/Consomac_20260314.mp3" length="1907924" type="audio/mpeg"/>
-            <itunes:duration>00:02:37</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:episode>5</itunes:episode>
-        </item>
-        <item>
-            <title>Podcast du 20260314 - Apple Newsroom</title>
-            <guid isPermaLink="false">Apple_Newsroom_69b80366c262b</guid>
-            <description>Podcast du 20260314 pour le site Apple Newsroom&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://www.apple.com/newsroom/2026/03/apple-to-celebrate-50-years-of-thinking-different/' target='_blank'&gt;https://www.apple.com/newsroom/2026/03/apple-to-celebrate-50-years-of-thinking-different/&lt;/a&gt;&lt;br&gt;</description>
-            <link>http://d.vanhee.free.fr/podcast/</link>
-            <pubDate>Mon, 16 Mar 2026 14:19:34 GMT</pubDate>
-            <enclosure url="http://d.vanhee.free.fr/podcast/audios/Apple_Newsroom_20260314.mp3" length="585380" type="audio/mpeg"/>
-            <itunes:duration>00:01:04</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:episode>4</itunes:episode>
-        </item>
-        <item>
-            <title>Podcast du 20260312 - Techno Science</title>
-            <guid isPermaLink="false">Techno_Science_69b80365a825c</guid>
-            <description>Podcast du 20260312 pour le site Techno Science&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/catapulte-electromagnetique-lune-N28410.html' target='_blank'&gt;https://www.techno-science.net/actualite/catapulte-electromagnetique-lune-N28410.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/decouverte-cellule-visuelle-unique-chez-poissons-abysses-N28405.html' target='_blank'&gt;https://www.techno-science.net/actualite/decouverte-cellule-visuelle-unique-chez-poissons-abysses-N28405.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/pourquoi-baille-on-quand-quelqu-autre-baille-N28403.html' target='_blank'&gt;https://www.techno-science.net/actualite/pourquoi-baille-on-quand-quelqu-autre-baille-N28403.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/edulcorants-detruisent-ils-cerveau-petit-feu-N28399.html' target='_blank'&gt;https://www.techno-science.net/actualite/edulcorants-detruisent-ils-cerveau-petit-feu-N28399.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/autisme-tdah-deux-faces-meme-piece-genetique-N28395.html' target='_blank'&gt;https://www.techno-science.net/actualite/autisme-tdah-deux-faces-meme-piece-genetique-N28395.html&lt;/a&gt;&lt;br&gt;</description>
-            <link>http://d.vanhee.free.fr/podcast/</link>
-            <pubDate>Mon, 16 Mar 2026 14:19:33 GMT</pubDate>
-            <enclosure url="http://d.vanhee.free.fr/podcast/audios/Techno_Science_20260312.mp3" length="1223660" type="audio/mpeg"/>
-            <itunes:duration>00:05:05</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:episode>3</itunes:episode>
-        </item>
-        <item>
-            <title>Podcast du 20260312 - INSEE</title>
-            <guid isPermaLink="false">INSEE_69b80364951e9</guid>
-            <description>Podcast du 20260312 pour le site INSEE&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://www.insee.fr/fr/statistiques/8888278' target='_blank'&gt;https://www.insee.fr/fr/statistiques/8888278&lt;/a&gt;&lt;br&gt;</description>
-            <link>http://d.vanhee.free.fr/podcast/</link>
-            <pubDate>Mon, 16 Mar 2026 14:19:32 GMT</pubDate>
-            <enclosure url="http://d.vanhee.free.fr/podcast/audios/INSEE_20260312.mp3" length="418508" type="audio/mpeg"/>
-            <itunes:duration>00:01:44</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:episode>2</itunes:episode>
-        </item>
-        <item>
-            <title>Podcast du 20260312 - Consomac</title>
-            <guid isPermaLink="false">Consomac_69b8036380782</guid>
-            <description>Podcast du 20260312 pour le site Consomac&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://consomac.fr/news-23353-la-concurrence-du-macbook-neo-etranglee-par-les-couts.html' target='_blank'&gt;https://consomac.fr/news-23353-la-concurrence-du-macbook-neo-etranglee-par-les-couts.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://consomac.fr/news-23343-le-macbook-neo-est-un-choc-pour-l-industrie.html' target='_blank'&gt;https://consomac.fr/news-23343-le-macbook-neo-est-un-choc-pour-l-industrie.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://consomac.fr/news-23338-tests-du-macbook-neo-un-excellent-rapport-qualiteprix.html' target='_blank'&gt;https://consomac.fr/news-23338-tests-du-macbook-neo-un-excellent-rapport-qualiteprix.html&lt;/a&gt;&lt;br&gt;</description>
-            <link>http://d.vanhee.free.fr/podcast/</link>
-            <pubDate>Mon, 16 Mar 2026 14:19:31 GMT</pubDate>
-            <enclosure url="http://d.vanhee.free.fr/podcast/audios/Consomac_20260312.mp3" length="1000652" type="audio/mpeg"/>
-            <itunes:duration>00:04:10</itunes:duration>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:episodeType>full</itunes:episodeType>
-            <itunes:episode>1</itunes:episode>
-        </item>
+<item>
+    <title>Articles de MacGénération - 20260316</title>
+    <guid isPermaLink="false">186b803e44e7aaa002dc04442f4367622a1f2851</guid>
+    <description>Articles de MacGénération - 20260316&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://www.macg.co/logiciels/2026/03/firefox-mozilla-prepare-une-toute-nouvelle-interface-nommee-nova-307427' target='_blank'&gt;https://www.macg.co/logiciels/2026/03/firefox-mozilla-prepare-une-toute-nouvelle-interface-nommee-nova-307427&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.macg.co/mac/2026/03/macbook-neo-premiers-jours-de-vente-et-stocks-en-dents-de-scie-307425' target='_blank'&gt;https://www.macg.co/mac/2026/03/macbook-neo-premiers-jours-de-vente-et-stocks-en-dents-de-scie-307425&lt;/a&gt;&lt;br&gt;</description>
+    <link>http://d.vanhee.free.fr/podcast/</link>
+    <pubDate>Mon, 16 Mar 2026 17:46:12 "GMT"</pubDate>
+    <enclosure url="http://d.vanhee.free.fr/podcast/audios/MacG__n__ration_20260316.mp3" length="2375084" type="audio/mpeg"/>
+    <itunes:duration>00:02:28</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>10</itunes:episode>
+</item>
+<item>
+    <title>Articles de The Conversation - 20260316</title>
+    <guid isPermaLink="false">57a53bd231bba330d0623f290a83ce65b128bddd</guid>
+    <description>Articles de The Conversation - 20260316&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://theconversation.com/des-appetits-militaires-a-ceux-des-multinationales-lepopee-de-la-mine-de-lithium-dechassieres-276196' target='_blank'&gt;https://theconversation.com/des-appetits-militaires-a-ceux-des-multinationales-lepopee-de-la-mine-de-lithium-dechassieres-276196&lt;/a&gt;&lt;br&gt;&lt;a href='https://theconversation.com/pourquoi-les-emissions-de-methane-ont-elles-bondi-de-2020-a-2023-une-etude-permet-enfin-de-repondre-276920' target='_blank'&gt;https://theconversation.com/pourquoi-les-emissions-de-methane-ont-elles-bondi-de-2020-a-2023-une-etude-permet-enfin-de-repondre-276920&lt;/a&gt;&lt;br&gt;&lt;a href='https://theconversation.com/iran-du-regime-des-mollahs-au-regime-des-gardiens-278388' target='_blank'&gt;https://theconversation.com/iran-du-regime-des-mollahs-au-regime-des-gardiens-278388&lt;/a&gt;&lt;br&gt;&lt;a href='https://theconversation.com/quand-les-grandes-communes-ecrasent-les-petites-au-sein-des-intercommunalites-276243' target='_blank'&gt;https://theconversation.com/quand-les-grandes-communes-ecrasent-les-petites-au-sein-des-intercommunalites-276243&lt;/a&gt;&lt;br&gt;&lt;a href='https://theconversation.com/quel-avenir-pour-le-municipalisme-retour-sur-les-experiences-de-barcelone-et-de-madrid-278109' target='_blank'&gt;https://theconversation.com/quel-avenir-pour-le-municipalisme-retour-sur-les-experiences-de-barcelone-et-de-madrid-278109&lt;/a&gt;&lt;br&gt;&lt;a href='https://theconversation.com/demain-le-mix-electrique-francais-sera-t-il-plus-vert-avec-ou-sans-nucleaire-277288' target='_blank'&gt;https://theconversation.com/demain-le-mix-electrique-francais-sera-t-il-plus-vert-avec-ou-sans-nucleaire-277288&lt;/a&gt;&lt;br&gt;&lt;a href='https://theconversation.com/pourquoi-limage-dune-france-peripherique-peuplee-delecteurs-en-colere-ne-resiste-pas-a-lexamen-274891' target='_blank'&gt;https://theconversation.com/pourquoi-limage-dune-france-peripherique-peuplee-delecteurs-en-colere-ne-resiste-pas-a-lexamen-274891&lt;/a&gt;&lt;br&gt;&lt;a href='https://theconversation.com/le-droit-penal-international-a-larticle-de-la-mort-276235' target='_blank'&gt;https://theconversation.com/le-droit-penal-international-a-larticle-de-la-mort-276235&lt;/a&gt;&lt;br&gt;&lt;a href='https://theconversation.com/si-la-republique-islamique-chute-quels-effets-sur-lirak-et-le-liban-277871' target='_blank'&gt;https://theconversation.com/si-la-republique-islamique-chute-quels-effets-sur-lirak-et-le-liban-277871&lt;/a&gt;&lt;br&gt;&lt;a href='https://theconversation.com/souverainete-monetaire-les-outils-des-banques-centrales-deviennent-tres-dangereux-sils-sont-places-entre-les-mains-dun-etat-malveillant-276244' target='_blank'&gt;https://theconversation.com/souverainete-monetaire-les-outils-des-banques-centrales-deviennent-tres-dangereux-sils-sont-places-entre-les-mains-dun-etat-malveillant-276244&lt;/a&gt;&lt;br&gt;&lt;a href='https://theconversation.com/municipales-le-triomphe-autoproclame-du-rn-et-de-lfi-ne-correspond-pas-a-la-realite-278452' target='_blank'&gt;https://theconversation.com/municipales-le-triomphe-autoproclame-du-rn-et-de-lfi-ne-correspond-pas-a-la-realite-278452&lt;/a&gt;&lt;br&gt;&lt;a href='https://theconversation.com/pourquoi-les-vegetaux-des-milieux-extremes-sont-ils-souvent-en-forme-de-boule-275452' target='_blank'&gt;https://theconversation.com/pourquoi-les-vegetaux-des-milieux-extremes-sont-ils-souvent-en-forme-de-boule-275452&lt;/a&gt;&lt;br&gt;</description>
+    <link>http://d.vanhee.free.fr/podcast/</link>
+    <pubDate>Mon, 16 Mar 2026 17:46:09 "GMT"</pubDate>
+    <enclosure url="http://d.vanhee.free.fr/podcast/audios/The_Conversation_20260316.mp3" length="15739052" type="audio/mpeg"/>
+    <itunes:duration>00:16:24</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>9</itunes:episode>
+</item>
+<item>
+    <title>Articles de Techno Science - 20260316</title>
+    <guid isPermaLink="false">8e869a68c411eb9344a45f63bdfda357d4cebd01</guid>
+    <description>Articles de Techno Science - 20260316&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/anomalie-lunaire-revelee-par-missions-apollo-trouve-explication-N28430.html' target='_blank'&gt;https://www.techno-science.net/actualite/anomalie-lunaire-revelee-par-missions-apollo-trouve-explication-N28430.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/contact-avec-nature-reinitialise-cerveau-N28429.html' target='_blank'&gt;https://www.techno-science.net/actualite/contact-avec-nature-reinitialise-cerveau-N28429.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/quelle-surface-sol-reserver-energie-solaire-N28424.html' target='_blank'&gt;https://www.techno-science.net/actualite/quelle-surface-sol-reserver-energie-solaire-N28424.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/espece-arbre-zombie-decouverte-australie-N28422.html' target='_blank'&gt;https://www.techno-science.net/actualite/espece-arbre-zombie-decouverte-australie-N28422.html&lt;/a&gt;&lt;br&gt;</description>
+    <link>http://d.vanhee.free.fr/podcast/</link>
+    <pubDate>Mon, 16 Mar 2026 17:46:08 "GMT"</pubDate>
+    <enclosure url="http://d.vanhee.free.fr/podcast/audios/Techno_Science_20260316.mp3" length="4591532" type="audio/mpeg"/>
+    <itunes:duration>00:04:47</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>8</itunes:episode>
+</item>
+<item>
+    <title>Articles de Apple Newsroom - 20260316</title>
+    <guid isPermaLink="false">94ef8037e415245bd1e111d99ba06df372c979bb</guid>
+    <description>Articles de Apple Newsroom - 20260316&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://www.apple.com/newsroom/2026/03/apple-introduces-airpods-max-2-powered-by-h2/' target='_blank'&gt;https://www.apple.com/newsroom/2026/03/apple-introduces-airpods-max-2-powered-by-h2/&lt;/a&gt;&lt;br&gt;</description>
+    <link>http://d.vanhee.free.fr/podcast/</link>
+    <pubDate>Mon, 16 Mar 2026 17:46:07 "GMT"</pubDate>
+    <enclosure url="http://d.vanhee.free.fr/podcast/audios/Apple_Newsroom_20260316.mp3" length="1074860" type="audio/mpeg"/>
+    <itunes:duration>00:01:07</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>7</itunes:episode>
+</item>
+<item>
+    <title>Podcast du 20260314 - Techno Science</title>
+    <guid isPermaLink="false">Techno_Science_69b803690534e</guid>
+    <description>Podcast du 20260314 pour le site Techno Science&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/fraise-renferme-heritage-genetique-hors-norme-N28415.html' target='_blank'&gt;https://www.techno-science.net/actualite/fraise-renferme-heritage-genetique-hors-norme-N28415.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/hallucinations-ia-biologie-N28413.html' target='_blank'&gt;https://www.techno-science.net/actualite/hallucinations-ia-biologie-N28413.html&lt;/a&gt;&lt;br&gt;</description>
+    <link>http://d.vanhee.free.fr/podcast/</link>
+    <pubDate>Mon, 16 Mar 2026 14:19:37 "GMT"</pubDate>
+    <enclosure url="http://d.vanhee.free.fr/podcast/audios/Techno_Science_20260314.mp3" length="2340524" type="audio/mpeg"/>
+    <itunes:duration>00:02:26</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>6</itunes:episode>
+</item>
+<item>
+    <title>Podcast du 20260314 - Consomac</title>
+    <guid isPermaLink="false">Consomac_69b80367d8c43</guid>
+    <description>Podcast du 20260314 pour le site Consomac&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://consomac.fr/news-23371-apple-appliquez-le-concept-du-neo-au-mac-mini.html' target='_blank'&gt;https://consomac.fr/news-23371-apple-appliquez-le-concept-du-neo-au-mac-mini.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://consomac.fr/news-23367-fin-de-carriere-pour-le-macbook-air-m2.html' target='_blank'&gt;https://consomac.fr/news-23367-fin-de-carriere-pour-le-macbook-air-m2.html&lt;/a&gt;&lt;br&gt;</description>
+    <link>http://d.vanhee.free.fr/podcast/</link>
+    <pubDate>Mon, 16 Mar 2026 14:19:35 "GMT"</pubDate>
+    <enclosure url="http://d.vanhee.free.fr/podcast/audios/Consomac_20260314.mp3" length="1907924" type="audio/mpeg"/>
+    <itunes:duration>00:02:37</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>5</itunes:episode>
+</item>
+<item>
+    <title>Podcast du 20260314 - Apple Newsroom</title>
+    <guid isPermaLink="false">Apple_Newsroom_69b80366c262b</guid>
+    <description>Podcast du 20260314 pour le site Apple Newsroom&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://www.apple.com/newsroom/2026/03/apple-to-celebrate-50-years-of-thinking-different/' target='_blank'&gt;https://www.apple.com/newsroom/2026/03/apple-to-celebrate-50-years-of-thinking-different/&lt;/a&gt;&lt;br&gt;</description>
+    <link>http://d.vanhee.free.fr/podcast/</link>
+    <pubDate>Mon, 16 Mar 2026 14:19:34 "GMT"</pubDate>
+    <enclosure url="http://d.vanhee.free.fr/podcast/audios/Apple_Newsroom_20260314.mp3" length="585380" type="audio/mpeg"/>
+    <itunes:duration>00:01:04</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>4</itunes:episode>
+</item>
+<item>
+    <title>Podcast du 20260312 - Techno Science</title>
+    <guid isPermaLink="false">Techno_Science_69b80365a825c</guid>
+    <description>Podcast du 20260312 pour le site Techno Science&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/catapulte-electromagnetique-lune-N28410.html' target='_blank'&gt;https://www.techno-science.net/actualite/catapulte-electromagnetique-lune-N28410.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/decouverte-cellule-visuelle-unique-chez-poissons-abysses-N28405.html' target='_blank'&gt;https://www.techno-science.net/actualite/decouverte-cellule-visuelle-unique-chez-poissons-abysses-N28405.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/pourquoi-baille-on-quand-quelqu-autre-baille-N28403.html' target='_blank'&gt;https://www.techno-science.net/actualite/pourquoi-baille-on-quand-quelqu-autre-baille-N28403.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/edulcorants-detruisent-ils-cerveau-petit-feu-N28399.html' target='_blank'&gt;https://www.techno-science.net/actualite/edulcorants-detruisent-ils-cerveau-petit-feu-N28399.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/autisme-tdah-deux-faces-meme-piece-genetique-N28395.html' target='_blank'&gt;https://www.techno-science.net/actualite/autisme-tdah-deux-faces-meme-piece-genetique-N28395.html&lt;/a&gt;&lt;br&gt;</description>
+    <link>http://d.vanhee.free.fr/podcast/</link>
+    <pubDate>Mon, 16 Mar 2026 14:19:33 "GMT"</pubDate>
+    <enclosure url="http://d.vanhee.free.fr/podcast/audios/Techno_Science_20260312.mp3" length="1223660" type="audio/mpeg"/>
+    <itunes:duration>00:05:05</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>3</itunes:episode>
+</item>
+<item>
+    <title>Podcast du 20260312 - INSEE</title>
+    <guid isPermaLink="false">INSEE_69b80364951e9</guid>
+    <description>Podcast du 20260312 pour le site INSEE&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://www.insee.fr/fr/statistiques/8888278' target='_blank'&gt;https://www.insee.fr/fr/statistiques/8888278&lt;/a&gt;&lt;br&gt;</description>
+    <link>http://d.vanhee.free.fr/podcast/</link>
+    <pubDate>Mon, 16 Mar 2026 14:19:32 "GMT"</pubDate>
+    <enclosure url="http://d.vanhee.free.fr/podcast/audios/INSEE_20260312.mp3" length="418508" type="audio/mpeg"/>
+    <itunes:duration>00:01:44</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>2</itunes:episode>
+</item>
+<item>
+    <title>Podcast du 20260312 - Consomac</title>
+    <guid isPermaLink="false">Consomac_69b8036380782</guid>
+    <description>Podcast du 20260312 pour le site Consomac&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://consomac.fr/news-23353-la-concurrence-du-macbook-neo-etranglee-par-les-couts.html' target='_blank'&gt;https://consomac.fr/news-23353-la-concurrence-du-macbook-neo-etranglee-par-les-couts.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://consomac.fr/news-23343-le-macbook-neo-est-un-choc-pour-l-industrie.html' target='_blank'&gt;https://consomac.fr/news-23343-le-macbook-neo-est-un-choc-pour-l-industrie.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://consomac.fr/news-23338-tests-du-macbook-neo-un-excellent-rapport-qualiteprix.html' target='_blank'&gt;https://consomac.fr/news-23338-tests-du-macbook-neo-un-excellent-rapport-qualiteprix.html&lt;/a&gt;&lt;br&gt;</description>
+    <link>http://d.vanhee.free.fr/podcast/</link>
+    <pubDate>Mon, 16 Mar 2026 14:19:31 "GMT"</pubDate>
+    <enclosure url="http://d.vanhee.free.fr/podcast/audios/Consomac_20260312.mp3" length="1000652" type="audio/mpeg"/>
+    <itunes:duration>00:04:10</itunes:duration>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>1</itunes:episode>
+</item>
     </channel>
 </rss>
-=======
-<itunes:explicit>no</itunes:explicit>
-<itunes:keywords>actualité,technologie,science,sport automobile</itunes:keywords>
-<itunes:type>serial</itunes:type>
-<itunes:subtitle>L'Essentiel des Flux</itunes:subtitle>
-<category>News</category>
-<itunes:category text="News"/>
-<image>
-<url>http://d.vanhee.free.fr/podcast/logos/logo.png</url>
-<title>L'Essentiel des Flux</title>
-<link>http://d.vanhee.free.fr/podcast/</link>
-</image>
-<itunes:image href="http://d.vanhee.free.fr/podcast/logos/logo.png"/>
-
-<item><title>Podcast du 20260314 - Techno Science</title><guid isPermaLink="false">Techno_Science_69b803690534e</guid><description>Podcast du 20260314 pour le site Techno Science&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/fraise-renferme-heritage-genetique-hors-norme-N28415.html' target='_blank'&gt;https://www.techno-science.net/actualite/fraise-renferme-heritage-genetique-hors-norme-N28415.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/hallucinations-ia-biologie-N28413.html' target='_blank'&gt;https://www.techno-science.net/actualite/hallucinations-ia-biologie-N28413.html&lt;/a&gt;&lt;br&gt;</description><link>http://d.vanhee.free.fr/podcast/</link><pubdate>Mon, 16 Mar 2026 14:19:37 GMT</pubdate><enclosure url="http://d.vanhee.free.fr/podcast/audios/Techno_Science_20260314.mp3" length="2340524" type="audio/mpeg"/><itunes:duration>00:02:26</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:episodeType>full</itunes:episodeType><itunes:episode>6</itunes:episode></item><item><title>Podcast du 20260314 - Consomac</title><guid isPermaLink="false">Consomac_69b80367d8c43</guid><description>Podcast du 20260314 pour le site Consomac&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://consomac.fr/news-23371-apple-appliquez-le-concept-du-neo-au-mac-mini.html' target='_blank'&gt;https://consomac.fr/news-23371-apple-appliquez-le-concept-du-neo-au-mac-mini.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://consomac.fr/news-23367-fin-de-carriere-pour-le-macbook-air-m2.html' target='_blank'&gt;https://consomac.fr/news-23367-fin-de-carriere-pour-le-macbook-air-m2.html&lt;/a&gt;&lt;br&gt;</description><link>http://d.vanhee.free.fr/podcast/</link><pubdate>Mon, 16 Mar 2026 14:19:35 GMT</pubdate><enclosure url="http://d.vanhee.free.fr/podcast/audios/Consomac_20260314.mp3" length="1907924" type="audio/mpeg"/><itunes:duration>00:02:37</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:episodeType>full</itunes:episodeType><itunes:episode>5</itunes:episode></item><item><title>Podcast du 20260314 - Apple Newsroom</title><guid isPermaLink="false">Apple_Newsroom_69b80366c262b</guid><description>Podcast du 20260314 pour le site Apple Newsroom&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://www.apple.com/newsroom/2026/03/apple-to-celebrate-50-years-of-thinking-different/' target='_blank'&gt;https://www.apple.com/newsroom/2026/03/apple-to-celebrate-50-years-of-thinking-different/&lt;/a&gt;&lt;br&gt;</description><link>http://d.vanhee.free.fr/podcast/</link><pubdate>Mon, 16 Mar 2026 14:19:34 GMT</pubdate><enclosure url="http://d.vanhee.free.fr/podcast/audios/Apple_Newsroom_20260314.mp3" length="585380" type="audio/mpeg"/><itunes:duration>00:01:04</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:episodeType>full</itunes:episodeType><itunes:episode>4</itunes:episode></item><item><title>Podcast du 20260312 - Techno Science</title><guid isPermaLink="false">Techno_Science_69b80365a825c</guid><description>Podcast du 20260312 pour le site Techno Science&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/catapulte-electromagnetique-lune-N28410.html' target='_blank'&gt;https://www.techno-science.net/actualite/catapulte-electromagnetique-lune-N28410.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/decouverte-cellule-visuelle-unique-chez-poissons-abysses-N28405.html' target='_blank'&gt;https://www.techno-science.net/actualite/decouverte-cellule-visuelle-unique-chez-poissons-abysses-N28405.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/pourquoi-baille-on-quand-quelqu-autre-baille-N28403.html' target='_blank'&gt;https://www.techno-science.net/actualite/pourquoi-baille-on-quand-quelqu-autre-baille-N28403.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/edulcorants-detruisent-ils-cerveau-petit-feu-N28399.html' target='_blank'&gt;https://www.techno-science.net/actualite/edulcorants-detruisent-ils-cerveau-petit-feu-N28399.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://www.techno-science.net/actualite/autisme-tdah-deux-faces-meme-piece-genetique-N28395.html' target='_blank'&gt;https://www.techno-science.net/actualite/autisme-tdah-deux-faces-meme-piece-genetique-N28395.html&lt;/a&gt;&lt;br&gt;</description><link>http://d.vanhee.free.fr/podcast/</link><pubdate>Mon, 16 Mar 2026 14:19:33 GMT</pubdate><enclosure url="http://d.vanhee.free.fr/podcast/audios/Techno_Science_20260312.mp3" length="1223660" type="audio/mpeg"/><itunes:duration>00:05:05</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:episodeType>full</itunes:episodeType><itunes:episode>3</itunes:episode></item><item><title>Podcast du 20260312 - INSEE</title><guid isPermaLink="false">INSEE_69b80364951e9</guid><description>Podcast du 20260312 pour le site INSEE&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://www.insee.fr/fr/statistiques/8888278' target='_blank'&gt;https://www.insee.fr/fr/statistiques/8888278&lt;/a&gt;&lt;br&gt;</description><link>http://d.vanhee.free.fr/podcast/</link><pubdate>Mon, 16 Mar 2026 14:19:32 GMT</pubdate><enclosure url="http://d.vanhee.free.fr/podcast/audios/INSEE_20260312.mp3" length="418508" type="audio/mpeg"/><itunes:duration>00:01:44</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:episodeType>full</itunes:episodeType><itunes:episode>2</itunes:episode></item><item><title>Podcast du 20260312 - Consomac</title><guid isPermaLink="false">Consomac_69b8036380782</guid><description>Podcast du 20260312 pour le site Consomac&lt;br&gt;Articles :&lt;br&gt;&lt;a href='https://consomac.fr/news-23353-la-concurrence-du-macbook-neo-etranglee-par-les-couts.html' target='_blank'&gt;https://consomac.fr/news-23353-la-concurrence-du-macbook-neo-etranglee-par-les-couts.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://consomac.fr/news-23343-le-macbook-neo-est-un-choc-pour-l-industrie.html' target='_blank'&gt;https://consomac.fr/news-23343-le-macbook-neo-est-un-choc-pour-l-industrie.html&lt;/a&gt;&lt;br&gt;&lt;a href='https://consomac.fr/news-23338-tests-du-macbook-neo-un-excellent-rapport-qualiteprix.html' target='_blank'&gt;https://consomac.fr/news-23338-tests-du-macbook-neo-un-excellent-rapport-qualiteprix.html&lt;/a&gt;&lt;br&gt;</description><link>http://d.vanhee.free.fr/podcast/</link><pubdate>Mon, 16 Mar 2026 14:19:31 GMT</pubdate><enclosure url="http://d.vanhee.free.fr/podcast/audios/Consomac_20260312.mp3" length="1000652" type="audio/mpeg"/><itunes:duration>00:04:10</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:episodeType>full</itunes:episodeType><itunes:episode>1</itunes:episode></item>
-
-</channel>
-</rss>
->>>>>>> 695b325 (mise a jour manuelle)
